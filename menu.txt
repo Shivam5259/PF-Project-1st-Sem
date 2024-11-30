@@ -1,0 +1,46 @@
+BreakFast
+1. Paratha 30
+2. Halwa Puri 100
+3. Chana with Naan 80
+4. Aloo Paratha 60
+5. Paye 150
+6. Nihari 200
+7. Anda Shami Burger 50
+8. Plain Naan with Chai 50
+9. Lassi (Sweet or Salty) 40
+10. Chai (Tea) 30
+----------------------------------
+Lunch
+11. Biryani 300
+12. Chicken Karahi 700
+13. Mutton Karahi 1,000
+14. Daal Chawal 200
+15. Pulao 250
+16. Haleem 250
+17. Beef Korma 500
+18. Chicken Handi 800
+19. Fish Curry 1,000
+20. Nihari 350
+21. Aloo Gosht 400
+22. Tandoori Roti with Sabzi 100
+23. Keema Paratha 300
+24. Vegetable Curry 250
+25. Kabab Platter 800
+----------------------------------
+Dinner
+26. Chicken Karahi - 700 PKR
+27. Mutton Karahi - 1,000 PKR
+28. Nihari - 350 PKR
+29. Beef Boti Kabab - 500 PKR
+30. Seekh Kabab - 400 PKR
+31. Chicken Handi - 800 PKR
+32. Mutton Pulao - 350 PKR
+33. Chicken Biryani - 300 PKR
+34. Aloo Gosht - 400 PKR
+35. Haleem - 250 PKR
+36. Fish Fry - 1,000 PKR
+37. Vegetable Curry - 250 PKR
+38. Chapli Kabab - 450 PKR
+39. Tandoori Roti with Sabzi - 100 PKR
+40. Beef Qorma - 500 PKR
+----------------------------------
